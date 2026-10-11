@@ -36,7 +36,7 @@ Here are key insights and data distributions analyzed from the MovieLens dataset
 1. Distribution of Ratings
 
 Shows the frequency of each rating score (from 1 to 5) given by users across the dataset.
-[](rating_distribution.png)
+![Rating Distribution](rating_distribution.png)
 
 2. Movies Released Per Year
 
