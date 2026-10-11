@@ -36,47 +36,47 @@ Here are key insights and data distributions analyzed from the MovieLens dataset
 1. Distribution of Ratings
 
 Shows the frequency of each rating score (from 1 to 5) given by users across the dataset.
-(rating_distribution.png)
+[](rating_distribution.png)
 
 2. Movies Released Per Year
 
 Tracks the volume of movies released across different years in the dataset.
-movies_per_year.png
+[](movies_per_year.png)
 
 3. Number of Ratings by Genre
 
 Highlights user engagement and popularity across different movie genres.
-rating_by_genre.png
+[](rating_by_genre.png)
 
 4. Top 5 Genres with 5-Star Ratings
 
 Identifies which genres accumulate the highest count of top-tier 5-star reviews.
-top_genre.png
+[](top_genre.png)
 
 5. Top 20 Most Rated Movies
 
 Displays the movies with the highest interaction and rating counts from users.
-top_movies.png
+[](top_movies.png)
 
 6. User Age Distribution
 
 Breaks down user demographics based on age brackets.
-user_with_diff_ages.png
+[](user_with_diff_ages.png)
 
 7. Average Rating by Gender
 
 Compares overall average rating tendencies between female (F) and male (M) users.
-avg_rating.png
+[](avg_rating.png)
 
 8. User Activity vs. Average Rating
 
 Examines the relationship between how active a user is (number of ratings provided) and their average rating tendency.
-user_rating_vs_avg_rating.png
+[](user_rating_vs_avg_rating.png)
 
 9. Feature Correlation Heatmap
 
 Shows linear correlation metrics between movieId, year, userId, rating, and timestamp.
-heatmap.png
+[](heatmap.png)
 
 ## ⚙️ How It Works
 
