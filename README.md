@@ -41,7 +41,7 @@ Shows the frequency of each rating score (from 1 to 5) given by users across the
 2. Movies Released Per Year
 
 Tracks the volume of movies released across different years in the dataset.
-[](movies_per_year.png)
+![](movies_per_year.png)
 
 3. Number of Ratings by Genre
 
